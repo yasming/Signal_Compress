@@ -39,7 +39,7 @@ numpy
 python som.py AudioPDS.wav
 ```
 
-- When you do this, you will can see in the terminal, the array of datas coming from the AudioPDS.wav and the sample_time too.
+- When you do this, you will can see in the terminal, the array of datas coming from the AudioPDS.wav and the sample time too.
 
 - After this you will get a archive called "NewAudio.flac", this new audio is already compressed, you can play this and watch the result.
 
