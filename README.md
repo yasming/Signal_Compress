@@ -11,16 +11,28 @@ These instructions will get you a copy of the project up and running on your loc
 This are the libs you need to install to the 
 
 ```
-
 sys
+```
+```
 soundfile
+```
+```
 scipy
+```
+```
 scipy.signal 
+```
+```
 matplotlib.pyplot
+```
+```
 scipy.io
+```
+```
 wave
+```
+```
 numpy
-
 ```
 
 ### Getting Started
