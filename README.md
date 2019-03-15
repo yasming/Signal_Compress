@@ -45,7 +45,7 @@ python som.py AudioPDS.wav
 
 - Then, convert this to  "NewAudio.wav" using some audio convert like this https://online-audio-converter.com/pt/ . So, rename the archive to "NewAudio.wav" .
 
-- Then, exec the project again .
+Then, exec the project again .
 
 ```
 python som.py AudioPDS.wav
